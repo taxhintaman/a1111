@@ -1,0 +1,51 @@
+<section id="text-2col-4--3" class="pt-50 pt-md-100 pb-md-50 pt-lg-100 pb-lg-50 light spr-edit-el spr-oc-show spr-wout">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mb-50">
+                
+                <h2 class="mb-20 text-center" style="color: rgb(0, 34, 110);"><strong class="">Components of Form 16</strong></h2>
+              	<h4 class="spr-tm-1723528513952" style="font-weight: 900; color: rgb(0, 34, 110);">Part A: Personal Information</h4>
+		        <p class="text-justify">Form 16 begins with a detailed section containing the personal information of both the employee and the employer.</p>
+              
+                <ul class="p-l-15 ul_f_f list-icon list-icon-check list-icon-colored">
+						<li class="">Part A of Form 16 provides comprehensive information about quarterly TDS deductions and deposits. This section details the employer's PAN and TAN and other relevant data.</li>
+						<li class="">Employers can generate and download Part A of Form 16 from the TRACES portal. The employer needs to authenticate the contents before issuing the certificate.</li>
+						<li class="">If you switch jobs within a financial year, each employer will furnish Part A of Form 16 for the corresponding employment period. Some key components of Part A encompass:</li>
+				</ul>	
+              
+              	<ul class="p-l-15 ul_f_f list-icon list-icon-check list-icon-colored">
+						<li class="">Name and address of the employer</li>
+						<li class="">Employer's TAN and PAN</li>
+						<li class="">Employee's PAN</li>
+						<li class="">Summary of quarterly tax deductions and deposits duly certified by the employer</li>
+			    </ul>
+              
+              <h4 class="spr-tm-1723528513952" style="font-weight: 900; color: rgb(0, 34, 110);">Part B: Income Details</h4>
+		      <p class="text-justify">An extensive breakdown of the employee's pay income is included in Part B of Form 16. It contains information on basic pay as well as bonuses, allowances, and other benefits. You can better understand your income sources and how they affect your total earnings by reading this section.</p>
+              <p class="text-justify">An extension of Part A, Part B of Form 16 is filled out by the employer on behalf of their staff members. It offers a thorough explanation of all the pay components and deductions authorised under Chapter VI-A.</p>
+              <p class="text-justify">Obtaining Form 16 from both employers is advisable if you change jobs within a single financial year. Newly introduced components within Part B include:</p>
+              
+              <ul class="p-l-15 ul_f_f list-icon list-icon-check list-icon-colored">
+						<li class="">A comprehensive breakdown of salary</li>
+						<li class="">A detailed breakdown of allowances exempt under Section 1</li>
+						<li class="">Permissible deductions as per the Income Tax Act (under Chapter VIA):</li>
+						<li class="">Deduction for premiums paid on life insurance, contributions to PPF, etc., under Section 80C</li>
+						<li class="">Deduction for contributions to pension funds under Section 80CCC</li>
+						<li class="">Deduction for employee's contributions to a pension scheme under Section 80CCD(1)</li>
+						<li class="">Deduction for the taxpayer's self-contribution to a designated pension scheme under Section 80CCD(1B)</li>
+						<li class="">Deduction for the employer's contributions to a pension scheme under Section 80CCD(2)</li>
+						<li class="">Deduction for premiums paid on health insurance under Section 80D</li>
+						<li class="">Deduction for interest paid on loans taken for higher education under Section 80E</li>
+						<li class="">Deduction for donations made under Section 80G</li>
+						<li class="">Deduction for interest income earned on savings accounts under Section 80TTA</li>
+			  </ul>
+              
+              
+              
+          </div>
+        </div>
+    </div>
+    <div class="bg-wrap">
+        <div class="bg"></div>
+    </div>
+</section>
